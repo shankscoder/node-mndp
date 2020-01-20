@@ -6,7 +6,7 @@ This is an implementation written in Node
 
 ### Usage Example
 ```
-var NodeMndp = require('node-mndp');
+var NodeMndp = require('node-mndp').Nodemndp;
 var discovery = new NodeMndp({
     port: 5678
 });
